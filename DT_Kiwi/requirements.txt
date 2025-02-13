@@ -1,0 +1,20 @@
+# Core test framework dependencies
+playwright
+pytest
+pytest-playwright
+pytest-xdist
+
+# Test ordering
+pytest-order
+
+# Kiwi TCMS integration
+tcms-api
+kiwitcms
+
+# Screen resolution management
+screeninfo
+
+# Optional utilities
+python-dotenv
+loguru
+requests
